@@ -4,7 +4,7 @@
 End to End Deep Learning (DL) pipeline trailored for Bahraini LPs with the following structure:
 1. Yolov9e DL model trained from scratch on custome dataset for LP detection.
 2. Pretrained Segment Anything Model (SAM) for LP segmentation.
-3. A custom LP perspective correction scheme.
+3. A custom LP perspective correction scheme based on classical computer vision techniques.
 4. A custom DL model based on CRNN and CTC loss trained from scratch on custom dataset.
 
 ### Code:
