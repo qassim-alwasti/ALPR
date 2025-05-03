@@ -11,7 +11,7 @@ End to End Deep Learning (DL) pipeline trailored for Bahraini LPs with the follo
 The code available under "ALPR\QSM_DemoScript_ALPR_GitHub.ipynb" is the implementation script which is in Python language for the end-to-end pipeline described above. Every part of the code is clearly described and explained. The pretrained models are too large to be added to this github repo and can be shared upon request by emailing "qassim.alwasati@gmail.com". 
 
 ### Dataset:
-Our cuatom dataset comprises of:
+Our custom dataset comprises of:
 1. LP Detection Dataset in Yolo structure for training and validating the DL model. Only portion of this dataset is added to this repo due to it's large size. It consists of a total of 3000 images (and thier labels) for training and 600 images (and thier labels) for validating the trained DL model.
 2. For LP Recognition, a custom dataset of 1000 images are used to train the custom CRNN model and 100 for validation. 
 
