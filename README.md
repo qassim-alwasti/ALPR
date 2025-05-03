@@ -12,9 +12,10 @@ The code available under "ALPR\QSM_DemoScript_ALPR_GitHub.ipynb" is the implemen
 
 ### Dataset:
 Our cuatom dataset comprises of:
-1. LP Detection Dataset in Yolo structure for training and validating the DL model. Only portion of this dataset is added to this repo due to it's large size. It consists of a total of 3000 images (and thier labels) for training and 600 images (and thier labels) for validating the trained DL model. For LP Recognition, a custom dataset of 1000 images are used to train the custom CRNN model and 100 for validation. 
+1. LP Detection Dataset in Yolo structure for training and validating the DL model. Only portion of this dataset is added to this repo due to it's large size. It consists of a total of 3000 images (and thier labels) for training and 600 images (and thier labels) for validating the trained DL model.
+2. For LP Recognition, a custom dataset of 1000 images are used to train the custom CRNN model and 100 for validation. 
 
-3. 
+
 
 ### DL models:
 There are 3 deep learning models required for our ALPR script to work:
